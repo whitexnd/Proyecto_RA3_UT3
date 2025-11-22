@@ -26,7 +26,6 @@
     - [12 Map (Enterprise)](#12-map-enterprise)
     - [13 Hierarchy](#13-hierarchy)
     - [14 QWeb (reportes/dashboards)](#14-qweb-reportesdashboards)
-  - [](#)
   - [Checklist final](#checklist-final)
 
 ---
@@ -161,7 +160,6 @@
 **Capturas**:  
 ![QWeb Report](../assets/img/14-qweb/paso01_qweb_invoice-report.png "Reporte QWeb")
 
-![alt text](image.png)
 ---
 
 ## Checklist final
